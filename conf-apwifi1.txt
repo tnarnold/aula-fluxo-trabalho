@@ -1,0 +1,2 @@
+config SSID="REDE_LOCAL"
+config PASS="senhasegura"

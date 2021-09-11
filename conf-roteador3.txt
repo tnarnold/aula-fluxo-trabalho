@@ -1,0 +1,2 @@
+config PPPOE_SERVER_NAME=
+config PPPOE_INTERFACE=

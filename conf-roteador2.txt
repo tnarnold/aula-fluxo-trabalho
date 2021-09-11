@@ -1,0 +1,3 @@
+config BGP_ASN_REMOTE=
+config BGP_IP_REMOTE=
+config BGP_IP_PREFIX=
